@@ -11,6 +11,10 @@
 
 처음 패키지 다운로드
 - shell
-- pip install pygame-ce
+- pip install pygame
 - pip install black isort
-- pip freeze > requirements.txt
+-
+
+
+
+pip install -r requirements.txt
